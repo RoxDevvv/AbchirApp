@@ -15,7 +15,7 @@
                 0668957515
             </description>
             <pubDate>Tuesday,28 June, 2022 23:28:00 +0000</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/abchir-981d8.appspot.com/o/Apk%2FAbchir%20V3.3.apk" sparkle:os="android" />
+            <enclosure url="https://raw.githubusercontent.com/Roxgame95/AbchirApp/main/AbchirVersion.xml" sparkle:os="android" />
         </item>
     </channel>
 </rss>
