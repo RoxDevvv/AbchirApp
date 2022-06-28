@@ -15,7 +15,7 @@
                 0668957515
             </description>
             <pubDate>Tuesday,28 June, 2022 23:28:00 +0000</pubDate>
-            <enclosure url=![CDATA[https://firebasestorage.googleapis.com/v0/b/abchir-981d8.appspot.com/o/Apk%2FAbchir%20V3.3.apk?alt=media&token=ca891ced-bda6-43fb-ba34-fc62dd8f9f3f]]  sparkle:os="android" />
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/abchir-981d8.appspot.com/o/Apk%2FAbchir%20V3.3.apk?alt=media&amp;token=ca891ced-bda6-43fb-ba34-fc62dd8f9f3f" sparkle:os="android" />
         </item>
     </channel>
 </rss>
