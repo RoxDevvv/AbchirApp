@@ -4,7 +4,9 @@
         <title>متجر أبشر تحديث جديد</title>
         <item>
             <sparkle:version>1.15.0</sparkle:version>
-            <sparkle:minimumAutoupdateVersion>1.15.0</sparkle:minimumAutoupdateVersion>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
             <title>إصدار 1.15</title>
             <description>
              تم تصحيح وإضافة بعص التحسينات للتطبيق الرجاء تحديث التطبيق عبر الزر 
