@@ -3,7 +3,7 @@
     <channel>
         <title>متجر أبشر تحديث جديد</title>
         <item>
-            <sparkle:version>1.5.0</sparkle:version>
+            <sparkle:version>1.0.0</sparkle:version>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
