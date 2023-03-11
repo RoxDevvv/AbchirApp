@@ -3,19 +3,19 @@
     <channel>
         <title>متجر أبشر تحديث جديد</title>
         <item>
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <title>إصدار 1.15</title>
+            <title>إصدار 1.0.1</title>
             <description>
              تم تصحيح وإضافة بعص التحسينات للتطبيق 
                 الرجاء تحديث التطبيق عبر الزر 
                 او إتصل بالتقني الخاص بنا على الرقم التالي 
-                0668957515
+                0793306929
             </description>
-            <pubDate>Tuesday,28 June, 2023 23:28:00 +0000</pubDate>
-            <enclosure url="https://github.com/Roxgame95/AbchirApp/raw/main/Abchir%20Upgrader%20version.apk" sparkle:os="android" />
+            <pubDate>Saturday, March 11, 2023 04:05:07 GMT+0100 (GMT+01:00)</pubDate>
+            <enclosure url="https://github.com/RoxDevvv/AbchirApp/raw/main/AbchirV1.0.1.apk" sparkle:os="android" />
         </item>
     </channel>
 </rss>
