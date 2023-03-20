@@ -3,11 +3,11 @@
     <channel>
         <title>متجر أبشر تحديث جديد</title>
         <item>
-            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:version>1.0.2</sparkle:version>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <title>إصدار 1.0.1</title>
+            <title>إصدار 1.0.2</title>
             <description>
              تم تصحيح وإضافة بعص التحسينات للتطبيق 
                 الرجاء تحديث التطبيق عبر الزر 
@@ -15,7 +15,7 @@
                 0793306929
             </description>
             <pubDate>Saturday, March 11, 2023 04:05:07 GMT+0100 (GMT+01:00)</pubDate>
-            <enclosure url="https://github.com/RoxDevvv/AbchirApp/raw/main/AbchirV1.0.1.apk" sparkle:os="android" />
+            <enclosure url="https://github.com/RoxDevvv/AbchirApp/raw/main/AbchirStock.apk" sparkle:os="android" />
         </item>
     </channel>
 </rss>
