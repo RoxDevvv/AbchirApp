@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>متجر أبشر تحديث جديد</title>
+        <title>متجر طلباتي تحديث جديد</title>
         <item>
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:tags>
@@ -15,7 +15,7 @@
                 0793306929
             </description>
             <pubDate>Saturday, March 11, 2023 04:05:07 GMT+0100 (GMT+01:00)</pubDate>
-            <enclosure url="https://github.com/RoxDevvv/AbchirApp/raw/main/AbchirStock.apk" sparkle:os="android" />
+            <enclosure url="https://github.com/RoxDevvv/AbchirApp/raw/main/Talabati.apk" sparkle:os="android" />
         </item>
     </channel>
 </rss>
