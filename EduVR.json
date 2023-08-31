@@ -1,3 +1,4 @@
 {
-  "lockGame": false
+  "state": false,
+  "msg": "Hello this is stolen game from dev"
 }
