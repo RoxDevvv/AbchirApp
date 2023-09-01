@@ -1,4 +1,4 @@
 {
-  "state": true,
-  "msg": "Hello this is stolen game from dev"
+  "state": false,
+  "msg": "Hello"
 }
